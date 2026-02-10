@@ -9,8 +9,8 @@
 # --- Required options --- #
 ############################
 
-adk3-cyber website
-title: "adk3 website cs103"
+# name of website
+title: adk3 website cs103
 
 # Your name to show in the footer
 author: adk3
