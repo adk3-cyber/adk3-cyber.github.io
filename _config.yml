@@ -20,7 +20,7 @@ author: adk3
 ###############################################
 
 navbar-links:
-  About Me: "I'm Arjun and this is my website for CS103"
+  About Me: "About Me"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
