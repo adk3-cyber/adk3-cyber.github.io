@@ -34,4 +34,8 @@ None
 
 I hope by the end of this semester the two answers above will be substantially different.
 
+**A boring fact about me**
+
+I love to cook
+
 
