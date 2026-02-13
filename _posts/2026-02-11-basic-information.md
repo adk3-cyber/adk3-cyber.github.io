@@ -38,4 +38,4 @@ I hope by the end of this semester the two answers above will be substantially d
 
 I love to cook
 
-![Homade pasta with spicy tomato sauce]((https://adk3-cyber.github.io/assets/img/IMG_1305.jpeg))
+![Homade pasta with spicy tomato sauce](https://adk3-cyber.github.io/assets/img/IMG_1305.jpeg)
