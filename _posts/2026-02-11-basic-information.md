@@ -36,6 +36,6 @@ I hope by the end of this semester the two answers above will be substantially d
 
 **A boring fact about me**
 
-I love to cook
+I love to cook, so much that I decided to make homade pasta in Mission kitchen (not a very sensible idea).
 
 ![Homade pasta with spicy tomato sauce](https://adk3-cyber.github.io/assets/img/IMG_1305.jpeg)
