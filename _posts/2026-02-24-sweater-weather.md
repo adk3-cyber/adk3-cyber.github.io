@@ -16,7 +16,7 @@ You can imput any temperature as the temperature variable and see what you shoul
 
 **Example of code where it's 50 degrees**
 
-![Sewing sampler front](https://adk3-cyber.github.io/assets/img/IMG_1465.HEIC)
+![My code output for sweater weather at 50 degrees](Sweaterweather.png)
 
 **Tip for my past self**
 
