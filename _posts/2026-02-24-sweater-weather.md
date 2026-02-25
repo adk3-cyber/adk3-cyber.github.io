@@ -16,7 +16,7 @@ You can imput any temperature as the temperature variable and see what you shoul
 
 **Example of code where it's 50 degrees**
 
-![My code output for sweater weather at 50 degrees](Sweaterweather.png)
+![My code output for sweater weather at 50 degrees](https://adk3-cyber.github.io/assets/img/Sweaterweather.png)
 
 **Tip for my past self**
 
