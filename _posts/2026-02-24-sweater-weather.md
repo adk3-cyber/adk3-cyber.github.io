@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sewing sampler homework
-subtitle: My first real (very janky) attempt at embrodiery
+title: Sweater Weather Homework
+subtitle: First coding assginment upload
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
@@ -10,15 +10,14 @@ mathjax: true
 author: Arjun Kalra
 ---
 
-**Sewing sampler front and back**
+**What this code does**
+
+You can imput any temperature as the temperature variable and see what you should be wearing (or if you should avoid the outdoors entirely. 
+
+**Example of code where it's 50 degrees**
 
 ![Sewing sampler front](https://adk3-cyber.github.io/assets/img/IMG_1465.HEIC)
-![Sewing sampler back](https://adk3-cyber.github.io/assets/img/IMG_1466.HEIC)
-
-**What I learned**
-
-Sewing takes a long long time and I need to give myself more time than I think is neccecary.
 
 **Tip for my past self**
 
-Pay more attention to the back so if you make a mistake you catch it more quickly.
+Don't try putting semi-colons on the end of if statements. 
