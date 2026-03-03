@@ -12,8 +12,8 @@ author: Arjun Kalra
 
 **Sewing sampler front and back**
 
-![Sewing sampler front](https://adk3-cyber.github.io/assets/img/IMG_1465.HEIC)
-![Sewing sampler back](https://adk3-cyber.github.io/assets/img/IMG_1466.HEIC)
+![Sewing sampler front](https://adk3-cyber.github.io/assets/img/Frontsewingsampler.png)
+![Sewing sampler back](https://adk3-cyber.github.io/assets/img/Backofsewingsampler.png)
 
 **What I learned**
 
