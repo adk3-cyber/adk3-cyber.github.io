@@ -16,7 +16,7 @@ This code mimics the circuit plushy we made physcially and tells you wheather or
 
 **Example of code where the button is pressed but the switch is off**
 
-![My code output for sweater weather at 50 degrees](https://adk3-cyber.github.io/assets/img/plushyredux.png)
+![xample of code where the button is pressed but the switch is off](https://adk3-cyber.github.io/assets/img/plushyredux.png)
 
 **Tip for my past self**
 
