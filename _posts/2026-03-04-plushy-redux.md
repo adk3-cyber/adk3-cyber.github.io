@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sweater Weather Homework
-subtitle: First coding assginment upload
+title: Plushy Redux 
+subtitle: A represenation of when lights do and don't turn in our cirucut plushy assignment
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
