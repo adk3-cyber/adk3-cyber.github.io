@@ -1,1 +1,22 @@
+---
+layout: post
+title: RGB Led Loop 
+subtitle: Use RGB LED on the arduino to light up in a pattern
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
+mathjax: true
+author: Arjun Kalra
+---
 
+**Image of LED lighting up greent**
+
+![Arduino lighting up green](https://adk3-cyber.github.io/assets/img/RGBledloop.png)
+
+**Assignment overview**
+
+This program uses a loop to make an LED turn  Red, Green, Blue. It relies on a variable loopcount to make the LED light up every 10th loop count. Each color flashes 3 times before it moves onto the next color.
+
+**Tip or trick**
+Make sure to make the delay long enough so the light actually turns on and stays on long enough to be noticable before it turns off. 
