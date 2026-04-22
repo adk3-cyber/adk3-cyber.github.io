@@ -11,4 +11,4 @@ author: Arjun Kalra
 ---
 
 Image of arduino setup:
-![Final project proposal(https://adk3-cyber.github.io/assets/img/Finalproject proposal.jpg)
+![Final project proposal(https://adk3-cyber.github.io/assets/img/Finalprojectproposal.jpg)]
