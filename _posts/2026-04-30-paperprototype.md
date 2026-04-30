@@ -10,5 +10,8 @@ mathjax: true
 author: Arjun Kalra
 ---
 
-Image of arduino setup:
-![Final project proposal(https://adk3-cyber.github.io/assets/img/Finalprojectproposal.jpg)]
+Description of assignment:
+Make a more detailed prototype for the final project with the traces fully drawn out to make sure things don't cross and with the different elements made to scale. 
+
+Image of paper prototype:
+![Final project proposal(https://adk3-cyber.github.io/assets/img/paperprototype2.png)]
